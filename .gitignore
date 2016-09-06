@@ -1,0 +1,13 @@
+# Vim swap files #
+*.swp
+
+# YouCompleteMe config #
+*.py
+*.pyc
+
+
+
+# executable/binary #
+main
+
+.DS_Store
